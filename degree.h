@@ -2,7 +2,7 @@
 // JYM1 - degree.h
 // Scripting and Programming Applications - C867
 // Alexander J. Pfleging
-// Student ID# 000821291
+// Student ID# xxx
 //
 
 #pragma once
